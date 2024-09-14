@@ -42,13 +42,13 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: news
-    content:
-      title: News
-      filters:
-        folders:
-          - event
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: News
+  #     filters:
+  #       folders:
+  #         - event
     design:
       columns: '2'
       view: compact

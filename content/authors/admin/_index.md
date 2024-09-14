@@ -30,7 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - brain-computer interfaces
-  - neural decoding
+  - neurotechnology
   - motor control
   - artificial intelligence
 
@@ -56,32 +56,32 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 85
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: MATLAB
+      - name: Deep learning
         description: ''
-        percent: 80
+        percent: 75
         icon: laptop
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Baking
+      - name: Crochet
         description: ''
-        percent: 60
-        icon: cookie-bite
+        percent: 85
+        icon: palette
         icon_pack: fas
       - name: Crossfit
         description: ''
-        percent: 75
+        percent: 80
         icon: dumbbell
         icon_pack: fas
-      - name: Crochet
+      - name: Baking
         description: ''
-        percent: 80
-        icon: palette
+        percent: 75
+        icon: cookie-bite
         icon_pack: fas
 
 # Social/Academic Networking
@@ -115,12 +115,13 @@ social:
 highlight_name: true
 ---
 
-I am currently a 5th year PhD Candidate in the Wallace H. Coulter Department of Biomedical Engineering at 
+I am currently a 6th year PhD Candidate in the Wallace H. Coulter Department of Biomedical Engineering at 
 the Georgia Institue of Technology and Emory University. I am working in the [Systems Neural Engineering Lab](https://snel.gatech.edu/) under Dr. Chethan Pandarinath. My work combines principles of machine learning and artificial intelligence with
-neuroscience. My dissertation work has focused on designing approaches that improve the robustness and feasibility of neural interface 
-technologies for everyday use.
+neuroscience. My dissertation work has focused on designing approaches that improve the robustness and feasibility of neural interface technologies for everyday use.
 
 I studied bioengineering at the University of Pennsylvania in Philadelphia, PA. My undergraduate research focused on 
 understanding auditory processing in nonhuman primates in the [Auditory Research Laboratory](https://auditoryresearchlaboratory.weebly.com/) under Dr. Yale Cohen. In my free time, I enjoy baking, crocheting, CrossFit, and 
 spending time with animals.
+
+Presently, I am seeking full-time opportunities in neurotechnology, computational neuroscience, machine learning, and data science.
 {style="text-align: justify;"}
