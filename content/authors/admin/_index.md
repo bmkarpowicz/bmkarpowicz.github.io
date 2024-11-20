@@ -31,12 +31,17 @@ organizations:
 interests:
   - brain-computer interfaces
   - neurotechnology
+  - wearable devices
   - motor control
   - artificial intelligence
+  - data science
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Biomedical Engineering
+      institution: Georgia Tech & Emory University
+      year: 2024
     - course: MS in Biomedical Engineering
       institution: Georgia Tech & Emory University
       year: 2023
@@ -104,6 +109,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6519-4641
+  - icon: youtube
+    icon_pack: fab
+    link: https://youtu.be/bL7bAC9U-eE 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -115,13 +123,13 @@ social:
 highlight_name: true
 ---
 
-I am currently a 6th year PhD Candidate in the Wallace H. Coulter Department of Biomedical Engineering at 
-the Georgia Institue of Technology and Emory University. I am working in the [Systems Neural Engineering Lab](https://snel.gatech.edu/) under Dr. Chethan Pandarinath. My work combines principles of machine learning and artificial intelligence with
-neuroscience. My dissertation work has focused on designing approaches that improve the robustness and feasibility of neural interface technologies for everyday use.
+I am a PhD graduate from the Wallace H. Coulter Department of Biomedical Engineering at 
+the Georgia Institue of Technology and Emory University. I completed my PhD in the [Systems Neural Engineering Lab](https://snel.gatech.edu/) under Dr. Chethan Pandarinath. My work combines principles of machine learning and artificial intelligence with
+neuroscience. My dissertation work focused on designing approaches that improve the robustness and practicality of neural interface technologies for everyday use.
 
 I studied bioengineering at the University of Pennsylvania in Philadelphia, PA. My undergraduate research focused on 
 understanding auditory processing in nonhuman primates in the [Auditory Research Laboratory](https://auditoryresearchlaboratory.weebly.com/) under Dr. Yale Cohen. In my free time, I enjoy baking, crocheting, CrossFit, and 
 spending time with animals.
 
-Presently, I am seeking full-time opportunities in neurotechnology, computational neuroscience, machine learning, and data science.
+Presently, I am seeking full-time opportunities in neurotechnology, computational neuroscience, wearable devices, machine learning, and data science.
 {style="text-align: justify;"}
