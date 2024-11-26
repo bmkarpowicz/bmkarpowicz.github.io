@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brianna M. Karpowicz
+title: Brianna M. Karpowicz, PhD
 
 # Name pronunciation (optional)
 # name_pronunciation: Brianna Karpowicz
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Neuroengineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
