@@ -8,10 +8,14 @@ authors:
 - Mohammad Reza Keshtkaran
 - Kevin Bodkin
 - Xuan Ma
+- Daniel B. Rubin
+- Ziv M. Williams
+- Sydney S. Cash
+- Leigh R. Hochberg
 - Lee E. Miller
 - Chethan Pandarinath
-date: "2022-04-08T00:00:00Z"
-doi: "https://doi.org/10.1101/2022.04.06.487388"
+date: "2025-05-19T00:00:00Z"
+doi: "https://doi.org/10.1038/s41467-025-59652-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -35,9 +39,9 @@ tags:
 featured: false
 
 links:
-- name: bioRxiv
-  url: https://www.biorxiv.org/content/10.1101/2022.04.06.487388v1 
-url_pdf: https://www.biorxiv.org/content/10.1101/2022.04.06.487388v1.full.pdf
+- name: Nature Communications
+  url: https://www.nature.com/articles/s41467-025-59652-y
+url_pdf: https://www.nature.com/articles/s41467-025-59652-y.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'

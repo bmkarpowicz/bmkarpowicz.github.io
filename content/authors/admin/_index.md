@@ -130,6 +130,6 @@ neuroscience. My dissertation work focused on designing approaches that improve 
 I studied bioengineering at the University of Pennsylvania in Philadelphia, PA. My undergraduate research focused on 
 understanding auditory processing in nonhuman primates in the [Auditory Research Laboratory](https://auditoryresearchlaboratory.weebly.com/) under Dr. Yale Cohen. In my free time, I enjoy baking, crocheting, CrossFit, and 
 spending time with animals.
-
-Presently, I am seeking full-time opportunities in neurotechnology, computational neuroscience, wearable devices, machine learning, and data science.
+<!-- 
+Presently, I am seeking full-time opportunities in neurotechnology, computational neuroscience, wearable devices, machine learning, and data science. -->
 {style="text-align: justify;"}
